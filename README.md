@@ -1,0 +1,2 @@
+此为Cloudsdale服务器材质包
+用于Minecraft Cloudsdale Network 系列服务器
